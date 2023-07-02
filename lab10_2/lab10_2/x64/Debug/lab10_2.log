@@ -1,0 +1,4 @@
+﻿  lab10_2.cpp
+C:\Users\hyok1\source\repos\lab10_2\lab10_2\lab10_2.cpp(9,7): warning C4101: 'p1' :참조되지 않은 지역 변수입니다.
+C:\Users\hyok1\source\repos\lab10_2\lab10_2\lab10_2.cpp(9,13): warning C4101: 'p2' :참조되지 않은 지역 변수입니다.
+  lab10_2.vcxproj -> C:\Users\hyok1\source\repos\lab10_2\x64\Debug\lab10_2.exe

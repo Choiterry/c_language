@@ -1,0 +1,4 @@
+﻿  20230111-2.cpp
+C:\Users\hyok1\source\repos\20230111\20230111\20230111-2.cpp(27,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+20230111-4.obj : error LNK2005: main이(가) 20230111-2.obj에 이미 정의되어 있습니다.
+C:\Users\hyok1\source\repos\20230111\x64\Debug\20230111.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -1,0 +1,3 @@
+the sum of the 
+10numbers in infile.txt
+is55

@@ -1,0 +1,8 @@
+﻿  20230105-5.cpp
+C:\Users\hyok1\source\repos\20230105\20230105\20230105-5.cpp(26,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hyok1\source\repos\20230105\20230105\20230105-5.cpp(27,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hyok1\source\repos\20230105\20230105\20230105-5.cpp(28,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hyok1\source\repos\20230105\20230105\20230105-5.cpp(35,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hyok1\source\repos\20230105\20230105\20230105-5.cpp(36,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hyok1\source\repos\20230105\20230105\20230105-5.cpp(37,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  20230105.vcxproj -> C:\Users\hyok1\source\repos\20230105\x64\Debug\20230105.exe
